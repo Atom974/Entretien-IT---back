@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"rootDir": "./",
+		"outDir": "./dist",
+		"module": "commonjs",
+		"types": [
+			"node"
+		],
+		"target": "es2017",
+		"esModuleInterop": true,
+		"lib": [
+			"es6"
+		],
+		"moduleResolution": "node",
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"removeComments": true
+	}
+}
